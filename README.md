@@ -10,4 +10,4 @@ Bu başlık bu repo bitene kadar atılan dosyalardan sonra dosyaların alındı�
 2) https://python-istihza.yazbel.com/ - Açık kaynak geliştiriciler tarafından sunulan Türkçe Python Kaynağı
 3) https://pyformat.info/ - Format fonksiyonu için ekstra python içerisinde kaynak
 4) https://www.w3schools.com/python/default.asp - Python ve daha bir çok dil için çeşitli egzersizler, veri yapıları vb birçok şeyide barındıran ilk elden öğrenebileceğiniz bir platform
-5) 
+5) https://datacamp.com/ - Python ( Özellikle veri bilimi) ve bir çok dilinde öğrenim serilerini ve pratiklerini bulabileceğiniz platform.
