@@ -12,4 +12,4 @@ Bu başlık bu repo bitene kadar atılan dosyalardan sonra dosyaların alındı�
 4) https://www.w3schools.com/python/default.asp - Python ve daha bir çok dil için çeşitli egzersizler, veri yapıları vb birçok şeyide barındıran ilk elden öğrenebileceğiniz bir platform
 5) https://datacamp.com/ - Python ( Özellikle veri bilimi) ve bir çok dilinde öğrenim serilerini ve pratiklerini bulabileceğiniz platform.
 6) https://gelecegiyazanlar.turkcell.com.tr/ - Python kursları Şuan kendine ayrı bir platform açmış olan bu konuda kendini kanıtlamış Mustafa Vahit Keskin'in verdiği Python- Veri bilimi ile ilgili kısımlarda gayet yeterli.
-7) https://www.btkakademi.gov.tr/ -
+7) https://www.btkakademi.gov.tr/ 
