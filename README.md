@@ -6,10 +6,10 @@ Burada Pythonda çeşitli kurslar ve siteler aracılığı ile bir öğrenme ser
 
 Bu başlık bu repo bitene kadar atılan dosyalardan sonra dosyaların alındığı kaynakları, siteleri ve kursları paylaşmak için kullanılacaktır. Kullanılanların tam olarak nerede ve hangi kısımda olduğuda ileriki zamanlarda daha net paylaşılacaktır. Dökümanda yer alan kaynaklar şunlardır;
 
-1)[(40+ Saat) Python|Sıfırdan İleri Seviye Programlama (2020) Udemy kursu - Mustafa Murat Coşkun](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/ )
-2)  
-3) https://python-istihza.yazbel.com/ - Açık kaynak geliştiriciler tarafından sunulan Türkçe Python Kaynağı
-4) https://pyformat.info/ - Format fonksiyonu için ekstra python içerisinde kaynak
+- [(40+ Saat) Python|Sıfırdan İleri Seviye Programlama (2020) Udemy kursu - Mustafa Murat Coşkun](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/)
+- [Yazbel - Türkçe Python Kaynağı](https://python-istihza.yazbel.com/)
+- [Pyformat](https://pyformat.info/)
+- 
 5) https://www.w3schools.com/python/default.asp - Python ve daha bir çok dil için çeşitli egzersizler, veri yapıları vb birçok şeyide barındıran ilk elden öğrenebileceğiniz bir platform
 6) https://datacamp.com/ - Python ( Özellikle veri bilimi) ve bir çok dilinde öğrenim serilerini ve pratiklerini bulabileceğiniz platform.
 7) https://gelecegiyazanlar.turkcell.com.tr/ - Python kursları Şuan kendine ayrı bir platform açmış olan bu konuda kendini kanıtlamış Mustafa Vahit Keskin'in verdiği Python- Veri bilimi ile ilgili kısımlarda gayet yeterli.
