@@ -14,3 +14,4 @@ Bu başlık bu repo bitene kadar atılan dosyalardan sonra dosyaların alındı�
 - [Turkcell - Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/)
 - [Btk Akademi](https://www.btkakademi.gov.tr/)
 - [Miuul](https://learning.miuul.com/courses/take/python-programming-for-data-science)
+----------
