@@ -15,4 +15,4 @@ Bu başlık bu repo bitene kadar atılan dosyalardan sonra dosyaların alındı�
 - [Btk Akademi](https://www.btkakademi.gov.tr/)
 - [Miuul](https://learning.miuul.com/courses/take/python-programming-for-data-science)
 - [Python Devguide](https://devguide.python.org/)
-----------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
